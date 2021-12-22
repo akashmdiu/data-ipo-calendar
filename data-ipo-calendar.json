@@ -8,8 +8,8 @@
         "ipo_type": "CING",
         "ipo_price": "$56",
         "capitalization": "123 mln $",
-        "valuation": "-25.80%",
-        "shares": "33mln $"
+        "shares": "33mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "completed",
@@ -20,8 +20,8 @@
         "ipo_type": "CING",
         "ipo_price": "$51",
         "capitalization": "123 mln $",
-        "valuation": "-25.80%",
-        "shares": "33mln $"
+        "shares": "33mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "completed",
@@ -32,8 +32,8 @@
         "ipo_type": "CING",
         "ipo_price": "$37",
         "capitalization": "13mln $",
-        "valuation": "-12.80%",
-        "shares": "19mln $"
+        "shares": "19mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "comingsoon",
@@ -44,8 +44,8 @@
         "ipo_type": "CING",
         "ipo_price": "$32",
         "capitalization": "93mln $",
-        "valuation": "-12.80%",
-        "shares": "19mln $"
+        "shares": "19mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "completed",
@@ -56,8 +56,8 @@
         "ipo_type": "CING",
         "ipo_price": "$31",
         "capitalization": "91mln $",
-        "valuation": "-18.80%",
-        "shares": "39mln $"
+        "shares": "39mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "comingsoon",
@@ -68,8 +68,8 @@
         "ipo_type": "GDB",
         "ipo_price": "$11",
         "capitalization": "9mln $",
-        "valuation": "-36.80%",
-        "shares": "11mln $"
+        "shares": "11mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     },
     {
         "status": "completed",
@@ -80,7 +80,7 @@
         "ipo_type": "GDB",
         "ipo_price": "$111",
         "capitalization": "19mln $",
-        "valuation": "-316.80%",
-        "shares": "11mln $"
+        "shares": "11mln $",
+        "learn_more_url": "https://www.ipobase.com/XXXXX"
     }
 ]
