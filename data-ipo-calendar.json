@@ -1,4 +1,19 @@
 [
+     {
+        "status": "available",
+        "company_name": "Reddit Inc.",
+        "company_logo": "https://www.reddiquette.com/wp-content/uploads/2020/09/What-Is-The-Reddit-Logo-Called.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": "TCKR",
+        "ipo_type": "IPO",
+        "ipo_price": "$33 - $39",
+        "capitalization": "2000 mln $",
+        "shares": "50mln $",
+        "learn_more_url": "https://www.ipobase.com/reddit"
+    },
+    
+    
     {
         "status": "available",
         "company_name": "Test Company Inc.",
