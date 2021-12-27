@@ -9,7 +9,7 @@
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
         "capitalization": " – mln $",
-        "shares": " – mln $",
+        "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/reddit"
     },
      {
@@ -22,7 +22,7 @@
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
         "capitalization": " 95B $",
-        "shares": " – mln $",
+        "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/stripe"
     },
     {
@@ -35,11 +35,67 @@
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
         "capitalization": " 45B $",
-        "shares": " – mln $",
+        "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/klarna"
     },
      {
         "status": "comingsoon",
+        "company_name": "ByteDance Ltd.",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": " 425B $",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/tiktok"
+    },
+     
+     
+     
+     
+     {
+        "status": "completed",
+        "company_name": "Rivian Automotive, Inc.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Rivian_logo_and_wordmark.svg/1024px-Rivian_logo_and_wordmark.svg.png",
+        "ipo_date": "Nov 10, 2021",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": "RIVN",
+        "ipo_type": "IPO",
+        "ipo_price": "$78 ",
+        "capitalization": " 51,3B $",
+        "shares": " 153 mln ",
+        "learn_more_url": "https://www.ipobase.com/rivian"
+    },
+     {
+        "status": "completed",
+        "company_name": "Nu Holdings Ltd.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nubank_logo_2021.svg/528px-Nubank_logo_2021.svg.png",
+        "ipo_date": "Dec 9, 2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": "NU",
+        "ipo_type": "IPO",
+        "ipo_price": "$9",
+        "capitalization": " 41B $",
+        "shares": "289,2 mln ",
+        "learn_more_url": "https://www.ipobase.com/nubank"
+    },
+     {
+        "status": "completed",
+        "company_name": "Expensify, Inc",
+        "company_logo": "https://static1.squarespace.com/static/ta/577c006b725e25e0affed0c1/2381/assets/img/brand/expensify-wordmark.svg",
+        "ipo_date": "Nov 10, 2021",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": "EXFY",
+        "ipo_type": "IPO",
+        "ipo_price": "$27",
+        "capitalization": " 1,94B $",
+        "shares": " 9,7 mln ",
+        "learn_more_url": "https://www.ipobase.com/expensify"
+    },
+     {
+        "status": "completed",
         "company_name": "ByteDance Ltd.",
         "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
         "ipo_date": "2022",
