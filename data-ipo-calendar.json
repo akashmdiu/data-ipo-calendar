@@ -12,97 +12,31 @@
         "shares": " – mln $",
         "learn_more_url": "https://www.ipobase.com/reddit"
     },
-    {
-        "status": "available",
-        "company_name": "Test Company Inc.",
-        "company_logo": "https://findale.pro/api/data/aatn4akfx/Cingulate_Inc-4.jpg",
-        "ipo_date": "Dec 7, 21",
-        "ipo_date_format": "2021, 12, 7",
-        "ticker": "83.3",
-        "ipo_type": "CING",
-        "ipo_price": "$56",
-        "capitalization": "123 mln $",
-        "shares": "33mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
-    },
-    {
-        "status": "completed",
-        "company_name": "Metaverse Inc.",
-        "company_logo": "https://findale.pro/api/data/aavhbmwvl/Chicago_Atlantic_Real_Estate_Finance_Inc-4.jpg",
-        "ipo_date": "Oct 7, 21",
-        "ipo_date_format": "2021, 9, 7",
-        "ticker": "64.3",
-        "ipo_type": "CING",
-        "ipo_price": "$51",
-        "capitalization": "123 mln $",
-        "shares": "33mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
-    },
-    {
-        "status": "completed",
-        "company_name": "Alphabet Inc.",
-        "company_logo": "https://findale.pro/api/data/aau6qwpfy/HashiCorp_Inc-4.jpg",
-        "ipo_date": "Apr 2, 21",
-        "ipo_date_format": "2021, 4, 2",
-        "ticker": "14.3",
-        "ipo_type": "CING",
-        "ipo_price": "$37",
-        "capitalization": "13mln $",
-        "shares": "19mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
-    },
-    {
+     {
         "status": "comingsoon",
-        "company_name": "Uber Inc.",
-        "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
-        "ipo_date": "july 2, 21",
-        "ipo_date_format": "2021, 7, 2",
-        "ticker": "54.3",
-        "ipo_type": "CING",
-        "ipo_price": "$32",
-        "capitalization": "93mln $",
-        "shares": "19mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
+        "company_name": "Stripe Inc.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": " – mln $",
+        "shares": " – mln $",
+        "learn_more_url": "https://www.ipobase.com/stripe"
     },
-    {
-        "status": "completed",
-        "company_name": "Grab Inc.",
-        "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
-        "ipo_date": "Dec 9, 21",
-        "ipo_date_format": "2021, 12, 9",
-        "ticker": "34.3",
-        "ipo_type": "CING",
-        "ipo_price": "$31",
-        "capitalization": "91mln $",
-        "shares": "39mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
-    },
-    {
+     {
         "status": "comingsoon",
-        "company_name": "Google Inc.",
-        "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
-        "ipo_date": "Mar 9, 12",
-        "ipo_date_format": "2012, 3, 9",
-        "ticker": "22.3",
-        "ipo_type": "GDB",
-        "ipo_price": "$11",
-        "capitalization": "9mln $",
-        "shares": "11mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
-    },
-    {
-        "status": "completed",
-        "company_name": "Zoomato Inc.",
-        "company_logo": "https://findale.pro/api/data/aavhdaz5i/NeuroSense_Therapeutics_Ltd-4.jpg",
-        "ipo_date": "Dec 9, 21",
-        "ipo_date_format": "2021, 12, 9",
-        "ticker": "221.3",
-        "ipo_type": "GDB",
-        "ipo_price": "$111",
-        "capitalization": "19mln $",
-        "shares": "11mln $",
-        "learn_more_url": "https://www.ipobase.com/XXXXX"
+        "company_name": "Stripe Inc.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": " 95B $",
+        "shares": " – mln $",
+        "learn_more_url": "https://www.ipobase.com/stripe"
     }
-    
 
 ]
