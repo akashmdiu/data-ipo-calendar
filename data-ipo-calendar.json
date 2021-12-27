@@ -63,8 +63,8 @@
         "ipo_date_format": "2022, 12, 7",
         "ticker": "RIVN",
         "ipo_type": "IPO",
-        "ipo_price": "$78 ",
-        "capitalization": " 51,3B $",
+        "ipo_price": "$ 78.00 ",
+        "capitalization": " 51.3B $",
         "shares": " 153 mln ",
         "learn_more_url": "https://www.ipobase.com/rivian"
     },
@@ -76,9 +76,9 @@
         "ipo_date_format": "2022, 12, 7",
         "ticker": "NU",
         "ipo_type": "IPO",
-        "ipo_price": "$9",
+        "ipo_price": "$ 9.00",
         "capitalization": " 41B $",
-        "shares": "289,2 mln ",
+        "shares": "289.2 mln ",
         "learn_more_url": "https://www.ipobase.com/nubank"
     },
      {
@@ -89,22 +89,22 @@
         "ipo_date_format": "2022, 12, 7",
         "ticker": "EXFY",
         "ipo_type": "IPO",
-        "ipo_price": "$27",
-        "capitalization": " 1,94B $",
-        "shares": " 9,7 mln ",
+        "ipo_price": "$ 27.00",
+        "capitalization": " 1.94B $",
+        "shares": " 9.7 mln ",
         "learn_more_url": "https://www.ipobase.com/expensify"
     },
      {
         "status": "completed",
-        "company_name": "ByteDance Ltd.",
-        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
-        "ipo_date": "2022",
+        "company_name": "NerdWallet, Inc.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Nerdwallet_Horizontal_Logo.svg/1600px-Nerdwallet_Horizontal_Logo.svg.png",
+        "ipo_date": "Nov 4, 2021",
         "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
+        "ticker": "NRDS",
         "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": " 425B $",
-        "shares": " – mln $",
-        "learn_more_url": "https://www.ipobase.com/tiktok"
+        "ipo_price": "$ 18.00",
+        "capitalization": " 1.2B $",
+        "shares": " 7.3 mln $",
+        "learn_more_url": "https://www.ipobase.com/nerdwallet"
     }
 ]
