@@ -8,7 +8,7 @@
         "ticker": " – ",
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
-        "capitalization": "10B $",
+        "capitalization": "$ 10000 mil",
         "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/reddit"
     },
@@ -21,7 +21,7 @@
         "ticker": " – ",
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
-        "capitalization": " 95B $",
+        "capitalization": "$ 95000 mil",
         "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/stripe"
     },
@@ -34,7 +34,7 @@
         "ticker": " – ",
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
-        "capitalization": " 45B $",
+        "capitalization": "$ 45000 mil",
         "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/klarna"
     },
@@ -47,7 +47,7 @@
         "ticker": " – ",
         "ipo_type": "IPO",
         "ipo_price": "$ – ",
-        "capitalization": " 425B $",
+        "capitalization": "$ 425000 mil",
         "shares": " – mln ",
         "learn_more_url": "https://www.ipobase.com/tiktok"
     },
@@ -64,8 +64,8 @@
         "ticker": "RIVN",
         "ipo_type": "IPO",
         "ipo_price": "$ 78.00 ",
-        "capitalization": " 51.3B $",
-        "shares": " 153 mln ",
+        "capitalization": "$ 51289.0 mil",
+        "shares": " 153 mil ",
         "learn_more_url": "https://www.ipobase.com/rivian"
     },
       {
@@ -77,8 +77,8 @@
         "ticker": "NU",
         "ipo_type": "IPO",
         "ipo_price": "$ 9.00",
-        "capitalization": " 41B $",
-        "shares": "289.2 mln ",
+        "capitalization": "$ 41000 mil",
+        "shares": "289.2 mil ",
         "learn_more_url": "https://www.ipobase.com/nubank"
     },
      {
@@ -90,8 +90,8 @@
         "ticker": "EXFY",
         "ipo_type": "IPO",
         "ipo_price": "$ 27.00",
-        "capitalization": " 1.94B $",
-        "shares": " 9.7 mln ",
+        "capitalization": "$ 1941.6 mil",
+        "shares": " 9.7 mil",
         "learn_more_url": "https://www.ipobase.com/expensify"
     },
      {
@@ -103,8 +103,8 @@
         "ticker": "NRDS",
         "ipo_type": "IPO",
         "ipo_price": "$ 18.00",
-        "capitalization": " 1.2B $",
-        "shares": " 7.3 mln",
+        "capitalization": "$ 1185.03 mil",
+        "shares": " 7.3 mil",
         "learn_more_url": "https://www.ipobase.com/nerdwallet"
     }
 ]
