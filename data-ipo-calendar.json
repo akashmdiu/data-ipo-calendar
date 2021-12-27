@@ -71,7 +71,7 @@
      {
         "status": "completed",
         "company_name": "Nu Holdings Ltd.",
-        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Nubank_logo_2021.svg/528px-Nubank_logo_2021.svg.png",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nubank_logo.svg/544px-Nubank_logo.svg.png",
         "ipo_date": "Dec 9, 2022",
         "ipo_date_format": "2022, 12, 7",
         "ticker": "NU",
@@ -104,7 +104,7 @@
         "ipo_type": "IPO",
         "ipo_price": "$ 18.00",
         "capitalization": " 1.2B $",
-        "shares": " 7.3 mln $",
+        "shares": " 7.3 mln",
         "learn_more_url": "https://www.ipobase.com/nerdwallet"
     }
 ]
