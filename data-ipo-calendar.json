@@ -14,20 +14,7 @@
     },
      {
         "status": "comingsoon",
-        "company_name": "Stripe Inc.",
-        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": " – mln $",
-        "shares": " – mln $",
-        "learn_more_url": "https://www.ipobase.com/stripe"
-    },
-     {
-        "status": "comingsoon",
-        "company_name": "Stripe Inc.",
+        "company_name": "Stripe, Inc.",
         "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
         "ipo_date": "2022",
         "ipo_date_format": "2022, 12, 7",
@@ -37,6 +24,31 @@
         "capitalization": " 95B $",
         "shares": " – mln $",
         "learn_more_url": "https://www.ipobase.com/stripe"
+    },
+     {
+        "status": "comingsoon",
+        "company_name": "Klarna Bank AB",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Klarna_Payment_Badge.svg",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": " 45B $",
+        "shares": " – mln $",
+        "learn_more_url": "https://www.ipobase.com/klarna"
     }
-
+     {
+        "status": "comingsoon",
+        "company_name": "ByteDance Ltd.",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": " 425B $",
+        "shares": " – mln $",
+        "learn_more_url": "https://www.ipobase.com/tiktok"
+    }
 ]
