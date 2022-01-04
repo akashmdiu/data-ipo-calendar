@@ -10,7 +10,7 @@
         "ipo_price": "$ – ",
         "capitalization": "$ 10B",
         "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/reddit"
+        "learn_more_url": "https://www.ipobase.com/reddit-ipo"
     },
     {
         "status": "comingsoon",
@@ -23,7 +23,7 @@
         "ipo_price": "$ – ",
         "capitalization": "$ 95B",
         "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/stripe"
+        "learn_more_url": "https://www.ipobase.com/stripe-ipo"
     },
     {
         "status": "comingsoon",
@@ -36,7 +36,7 @@
         "ipo_price": "$ – ",
         "capitalization": "$ 45B",
         "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/klarna"
+        "learn_more_url": "https://www.ipobase.com/klarna-ipo"
     },
      {
         "status": "comingsoon",
@@ -49,7 +49,7 @@
         "ipo_price": "$ – ",
         "capitalization": "$ 50B",
         "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/tiktok"
+        "learn_more_url": "https://www.ipobase.com/tiktok-ipo"
     },
      
      
@@ -66,7 +66,7 @@
         "ipo_price": "$ 78.00 ",
         "capitalization": "$ 51289.0 mil",
         "shares": " 153 mil ",
-        "learn_more_url": "https://www.ipobase.com/rivian"
+        "learn_more_url": "https://www.ipobase.com/rivian-ipo"
     },
       {
         "status": "completed",
@@ -79,7 +79,7 @@
         "ipo_price": "$ 9.00",
         "capitalization": "$ 41000 mil",
         "shares": "289.2 mil ",
-        "learn_more_url": "https://www.ipobase.com/nubank"
+        "learn_more_url": "https://www.ipobase.com/nubank-ipo"
     },
      {
         "status": "completed",
@@ -92,7 +92,7 @@
         "ipo_price": "$ 27.00",
         "capitalization": "$ 1941.6 mil",
         "shares": " 9.7 mil",
-        "learn_more_url": "https://www.ipobase.com/expensify"
+        "learn_more_url": "https://www.ipobase.com/expensify-ipo"
     },
      {
         "status": "completed",
@@ -105,6 +105,6 @@
         "ipo_price": "$ 18.00",
         "capitalization": "$ 1185.03 mil",
         "shares": " 7.3 mil",
-        "learn_more_url": "https://www.ipobase.com/nerdwallet"
+        "learn_more_url": "https://www.ipobase.com/nerdwallet-ipo"
     }
 ]
