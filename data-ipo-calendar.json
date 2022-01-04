@@ -1,4 +1,19 @@
 [
+       {
+        "status": "available",
+        "company_name": "CinCor Pharma Inc.",
+        "company_logo": "https://www.sofinnovapartners.com/hubfs/cincor_large.png",
+        "ipo_date": "Jan 7, 2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " CINC ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ 15.00 - 17.00 ",
+        "capitalization": "$ 566",
+        "shares": " 176 mln ",
+        "learn_more_url": "https://www.ipobase.com/cincor-ipo"
+    },
+     
+     
      {
         "status": "comingsoon",
         "company_name": "Reddit Inc.",
