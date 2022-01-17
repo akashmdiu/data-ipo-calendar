@@ -131,7 +131,7 @@
         "ticker": "RIVN",
         "ipo_type": "IPO",
         "ipo_price": "$ 78.00 ",
-        "capitalization": "$ 51289.0 mil",
+        "capitalization": "$ 51.2B",
         "shares": " 153 mil ",
         "learn_more_url": "https://www.ipobase.com/rivian-ipo"
     },
@@ -144,7 +144,7 @@
         "ticker": "NU",
         "ipo_type": "IPO",
         "ipo_price": "$ 9.00",
-        "capitalization": "$ 41000 mil",
+        "capitalization": "$ 41B",
         "shares": "289.2 mil ",
         "learn_more_url": "https://www.ipobase.com/nubank-ipo"
     },
@@ -157,7 +157,7 @@
         "ticker": "EXFY",
         "ipo_type": "IPO",
         "ipo_price": "$ 27.00",
-        "capitalization": "$ 1941.6 mil",
+        "capitalization": "$ 1.9B",
         "shares": " 9.7 mil",
         "learn_more_url": "https://www.ipobase.com/expensify-ipo"
     },
@@ -170,7 +170,7 @@
         "ticker": "NRDS",
         "ipo_type": "IPO",
         "ipo_price": "$ 18.00",
-        "capitalization": "$ 1185.03 mil",
+        "capitalization": "$ 1.18B",
         "shares": " 7.3 mil",
         "learn_more_url": "https://www.ipobase.com/nerdwallet-ipo"
     }
