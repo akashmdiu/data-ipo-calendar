@@ -1,4 +1,83 @@
 [
+   {
+        "status": "comingsoon",
+        "company_name": "Reddit Inc.",
+        "company_logo": "https://logos-world.net/wp-content/uploads/2020/10/Reddit-Logo-700x394.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 10B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/reddit-ipo"
+    },
+    {
+        "status": "comingsoon",
+        "company_name": "Stripe, Inc.",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 95B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/stripe-ipo"
+    },
+    {
+        "status": "comingsoon",
+        "company_name": "Klarna Bank AB",
+        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Klarna_Payment_Badge.svg",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 45B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/klarna-ipo"
+    },
+     {
+        "status": "comingsoon",
+        "company_name": "ByteDance Ltd. ",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 50B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/tiktok-ipo"
+    },
+       {
+        "status": "comingsoon",
+        "company_name": "Instacart Inc. ",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2022/01/Instacart.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 39B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/instacart-ipo"
+    },
+     
+     {
+        "status": "comingsoon",
+        "company_name": "Discord Inc. ",
+        "company_logo": "https://vostory.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 15B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/discord-ipo"
+    },
   
       {
         "status": "comingsoon",
@@ -70,72 +149,6 @@
         "capitalization": "$ 566M",
         "shares": " 176 mln ",
         "learn_more_url": "https://www.ipobase.com/cincor-ipo"
-    },
-     {
-        "status": "comingsoon",
-        "company_name": "Reddit Inc.",
-        "company_logo": "https://logos-world.net/wp-content/uploads/2020/10/Reddit-Logo-700x394.png",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": "$ 10B",
-        "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/reddit-ipo"
-    },
-    {
-        "status": "comingsoon",
-        "company_name": "Stripe, Inc.",
-        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": "$ 95B",
-        "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/stripe-ipo"
-    },
-    {
-        "status": "comingsoon",
-        "company_name": "Klarna Bank AB",
-        "company_logo": "https://upload.wikimedia.org/wikipedia/commons/4/40/Klarna_Payment_Badge.svg",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": "$ 45B",
-        "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/klarna-ipo"
-    },
-     {
-        "status": "comingsoon",
-        "company_name": "ByteDance Ltd. ",
-        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2021/12/TikTok-logo.png",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": "$ 50B",
-        "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/tiktok-ipo"
-    },
-     
-     {
-        "status": "comingsoon",
-        "company_name": "Discord Inc. ",
-        "company_logo": "https://vostory.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png",
-        "ipo_date": "2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": " – ",
-        "ipo_type": "IPO",
-        "ipo_price": "$ – ",
-        "capitalization": "$ 15B",
-        "shares": " – mln ",
-        "learn_more_url": "https://www.ipobase.com/discord-ipo"
     },
      {
         "status": "completed",
