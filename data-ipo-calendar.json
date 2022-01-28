@@ -53,6 +53,19 @@
     },
      {
         "status": "comingsoon",
+        "company_name": "Shein ",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2022/01/Shein-ipo.png",
+        "ipo_date": "2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " – ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ 50B",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/shein-ipo"
+    },
+     {
+        "status": "comingsoon",
         "company_name": "Formagrid Inc (Airtable). ",
         "company_logo": "https://www.ipobase.com/content/images/size/w1600/2022/01/Airtable-ipo.png",
         "ipo_date": "2022",
