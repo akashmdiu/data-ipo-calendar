@@ -1,4 +1,20 @@
 [
+   
+      {
+        "status": "available",
+        "company_name": "Turo Inc. ",
+        "company_logo": "https://www.ipobase.com/content/images/2022/01/turo-logo.jpeg",
+        "ipo_date": "Feb 10, 2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": "TURO",
+        "ipo_type": "IPO",
+        "ipo_price": "$ - ",
+        "capitalization": "$ 1B",
+        "shares": " - mln ",
+        "learn_more_url": "https://www.ipobase.com/turo-ipo"
+       },
+   
+   
    {
         "status": "available",
         "company_name": "HomeSmart Holdings Inc.",
@@ -133,21 +149,6 @@
         "capitalization": "$ 2.4B",
         "shares": " - mln ",
         "learn_more_url": "https://www.ipobase.com/lime-ipo"
-       },
-  
-  
-      {
-        "status": "available",
-        "company_name": "Turo Inc. ",
-        "company_logo": "https://www.ipobase.com/content/images/2022/01/turo-logo.jpeg",
-        "ipo_date": "Feb 10, 2022",
-        "ipo_date_format": "2022, 12, 7",
-        "ticker": "TURO",
-        "ipo_type": "IPO",
-        "ipo_price": "$ - ",
-        "capitalization": "$ 1B",
-        "shares": " - mln ",
-        "learn_more_url": "https://www.ipobase.com/turo-ipo"
        },
   
      
