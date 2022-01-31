@@ -1,5 +1,21 @@
 [
    {
+        "status": "available",
+        "company_name": "HomeSmart Holdings Inc.",
+        "company_logo": "https://www.ipobase.com/content/images/size/w1600/2022/01/HomeSmart-ipo.png",
+        "ipo_date": "Jan 7, 2022",
+        "ipo_date_format": "2022, 12, 7",
+        "ticker": " HS ",
+        "ipo_type": "IPO",
+        "ipo_price": "$ – ",
+        "capitalization": "$ -",
+        "shares": " – mln ",
+        "learn_more_url": "https://www.ipobase.com/homesmart-stock"
+    },
+   
+   
+   
+   {
         "status": "comingsoon",
         "company_name": "Reddit Inc.",
         "company_logo": "https://logos-world.net/wp-content/uploads/2020/10/Reddit-Logo-700x394.png",
@@ -124,7 +140,7 @@
         "status": "available",
         "company_name": "Turo Inc. ",
         "company_logo": "https://www.ipobase.com/content/images/2022/01/turo-logo.jpeg",
-        "ipo_date": "Feb 14, 2022",
+        "ipo_date": "Feb 10, 2022",
         "ipo_date_format": "2022, 12, 7",
         "ticker": "TURO",
         "ipo_type": "IPO",
